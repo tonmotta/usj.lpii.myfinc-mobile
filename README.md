@@ -1,1 +1,1 @@
-## Projeto MyFinc verssão Mobile (IONIC - VUE) 
+## Projeto MyFinc versão Mobile (IONIC - VUE) 
